@@ -1,0 +1,1 @@
+(this.webpackJsonpframeworkcss=this.webpackJsonpframeworkcss||[]).push([[926],{717:function(s,a,c){s.exports=c.p+"static/media/readme_calculator.2fb55c22.txt"}}]);

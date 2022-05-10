@@ -1,0 +1,1 @@
+(this.webpackJsonpframeworkcss=this.webpackJsonpframeworkcss||[]).push([[818],{1006:function(s,c,o){}}]);

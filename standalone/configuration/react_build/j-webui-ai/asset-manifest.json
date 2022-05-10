@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "template_auto_ip_port/static/js/main.9f82cb86.chunk.js",
+    "runtime-main.js": "template_auto_ip_port/static/js/runtime-main.79034b15.js",
+    "index.html": "template_auto_ip_port/index.html",
+    "precache-manifest.97385c620c9d5157fe66f0a2ffd36de6.js": "template_auto_ip_port/precache-manifest.97385c620c9d5157fe66f0a2ffd36de6.js",
+    "service-worker.js": "template_auto_ip_port/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79034b15.js",
+    "static/js/main.9f82cb86.chunk.js"
+  ]
+}

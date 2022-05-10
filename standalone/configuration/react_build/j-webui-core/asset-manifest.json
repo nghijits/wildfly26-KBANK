@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "template_auto_ip_port/static/js/main.adede71c.chunk.js",
+    "runtime-main.js": "template_auto_ip_port/static/js/runtime-main.fdadd19f.js",
+    "static/js/2.b45806ef.chunk.js": "template_auto_ip_port/static/js/2.b45806ef.chunk.js",
+    "index.html": "template_auto_ip_port/index.html",
+    "precache-manifest.214ec371edd39d5e262801e6fa4b1e71.js": "template_auto_ip_port/precache-manifest.214ec371edd39d5e262801e6fa4b1e71.js",
+    "service-worker.js": "template_auto_ip_port/service-worker.js",
+    "static/js/2.b45806ef.chunk.js.LICENSE.txt": "template_auto_ip_port/static/js/2.b45806ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdadd19f.js",
+    "static/js/2.b45806ef.chunk.js",
+    "static/js/main.adede71c.chunk.js"
+  ]
+}

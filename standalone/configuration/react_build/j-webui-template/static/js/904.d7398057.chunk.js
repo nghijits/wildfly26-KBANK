@@ -1,0 +1,1 @@
+(this.webpackJsonpframeworkcss=this.webpackJsonpframeworkcss||[]).push([[904],{695:function(s,e,a){s.exports=a.p+"static/media/readme_label.063f347d.txt"}}]);

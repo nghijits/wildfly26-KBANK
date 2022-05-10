@@ -1,0 +1,1 @@
+(this.webpackJsonpframeworkcss=this.webpackJsonpframeworkcss||[]).push([[933],{724:function(s,e,a){s.exports=a.p+"static/media/readme_numberCal.989b9719.txt"}}]);

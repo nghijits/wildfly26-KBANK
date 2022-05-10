@@ -1,0 +1,2 @@
+2022-05-10 09:29:58,468 INFO  [org.jboss.as.server.deployment.scanner] (MSC service thread 1-4) WFLYDS0013: Started FileSystemDeploymentService for directory D:\wildfly-26.1.0.Final\standalone\deployments
+2022-05-10 09:29:59,030 INFO  [org.jboss.ws.common.management] (MSC service thread 1-3) JBWS022052: Starting JBossWS 5.4.4.Final (Apache CXF 3.4.5) 
